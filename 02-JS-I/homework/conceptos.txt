@@ -1,0 +1,7 @@
+Variables: son formas de almacenar informacion para usarlas o manipularlas mas tarde.
+Strings: son un conjunto de caracteres que se nombran entre comillas para diferenciarlas de una variable 
+Funciones: son instrucciones que se utilizan para realizar una tarea especifica.
+Argumentos:es un tipo de dato que se envia a los parametros para realizar la funcion
+Return: es una forma que podemos usar para devolver algo fuera de la funcion
+Declaraciones if: es una condicion para evaluar algo en true o false.
+Valores booleanos true false: es un tipo de dato binario que tiene dos valores verdadero o falso.
