@@ -1,0 +1,4 @@
+For: Es un bucle que utilizamos cuando queremos repetir una instruccion un numero especifico de veces a una variable
+&&: Usamos esta expresion para evaluar dos expresiones y SOLO en el caso que ambas sean true devolvera true si tan solo una es false devolvera false
+||: El operador Or lo usamos para evaluar dos expresiones y devolvera true si tan solo una de ellas es true (o ambas) y false solo si ambas son false
+!: Este operador NOT lo utilizamos para devolver un valor booleano opuesto al que se esperaba conseguir 
