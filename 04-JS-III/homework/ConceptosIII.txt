@@ -1,0 +1,1 @@
+Arrays: Los Arrays son objetos similares a una lista los cuales pueden contener distintos tipos de valores.
