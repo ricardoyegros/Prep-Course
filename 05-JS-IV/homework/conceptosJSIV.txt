@@ -1,0 +1,5 @@
+Objetos: Un conjunto de propiedades que tienen valores asignados
+Propiedades: Caracteristicas que poseen los objetos y tienen valores en su interior. 
+Métodos: funciones asignadas a una propiedad de un objeto.
+Bucle for…in: Realiza el ciclo for dentro de todas las propiedades del objeto.
+Notación de puntos vs notación de corchetes: La notacion de puntos nos sirve para llamar a las propiedades del objeto seguida de un punto, mientras que la notacion de corchetes nos sirve para acceder a las propiedades poniendolas dentro un corchete y dentro de comillas como si fueran una cadena, de esta manera podemos incluir caracteres especiales.
