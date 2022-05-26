@@ -1,0 +1,2 @@
+prototype: lo utilizamos para compartir propiedades y metodos entre objetos.
+Constructors (de Clases): es el metodo que crea y configura un nuevo objeto a partir de una clase.
